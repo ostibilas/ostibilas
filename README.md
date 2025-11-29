@@ -1,28 +1,101 @@
-# 👋 Olá! Eu sou Gustavo Pereira Lima (ostibilas)
-
-## 🚀 Sobre mim  
-- 🎮 Dev C#, Unity, .NET e NodeJS  
-- 💻 Desenvolvedor de games & aplicações web  
-- 🌱 Sempre aprendendo e desenvolvendo novos projetos  
-
-## 🛠 Tecnologias e Ferramentas  
-<p>
-  <img src="https://skillicons.dev/icons?i=csharp,unity,dotnet,nodejs,js,html,css,git,github" />
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0066,100:6600ff&height=200&section=header&text=Ostibilas&fontSize=70&fontColor=ffffff&fontAlignY=35" />
 </p>
 
-## ✅ O que eu faço  
-- Criação de jogos com Unity  
-- APIs e aplicações backend com .NET / NodeJS  
-- Websites com JavaScript / HTML / CSS  
+<h2 align="center">🎨 Desenvolvedor • Artista 2D • Pixel Artist • Criador de Jogos</h2>
 
-## 🚀 Projetos em destaque  
-- [Baldtheviking](https://github.com/ostibilas/Baldtheviking) — game desenvolvido em Unity  
-- [SiteParaLanches](https://github.com/ostibilas/SiteParaLanches) — site de estudo de design web  
-- [NodeJS_filter_Study](https://github.com/ostibilas/NodeJS_filter_Study) — API Node.js para filtragem de produtos  
-- [aulaExpress](https://github.com/ostibilas/aulaExpress) — projeto JavaScript de rotas/Backend  
+<p align="center">
+  <strong>Unity • C# • .NET • NodeJS • JavaScript • Arte 2D • Pixel Art • Game Dev</strong>
+</p>
 
-## 📊 Minhas estatísticas  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ostibilas&show_icons=true&theme=dracula)  
+---
 
-## 🔗 Vamos nos conectar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustopavereiralima/)
+## 🔥 Sobre Mim
+Sou **Gustavo Pereira Lima**, desenvolvedor e artista apaixonado por criar **jogos, mundos, personagens e experiências visuais**.
+
+- 🎮 Desenvolvedor de Jogos (Unity, C#)  
+- 🖌️ Artista 2D & Pixel Art  
+- 💻 Web & Backend Developer  
+- 🚀 Criador do jogo **Space Saviour Special** (Steam)
+
+---
+
+## 🎨 Portfólio & Redes  
+<p align="center">
+  <a href="https://www.artstation.com/gustavoplima">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/baldtheviking/">
+    <img src="https://img.shields.io/badge/BaldTheViking-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://store.steampowered.com/app/2189200/Space_Saviour_Special">
+    <img src="https://img.shields.io/badge/Steam%20Game-000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gustopavereiralima/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💥 Tecnologias & Ferramentas  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=csharp,unity,dotnet,nodejs,js,html,css,github,git,ps,blender,vscode&theme=dark" />
+</p>
+
+---
+
+## 🎮 Meu Jogo na Steam  
+<p align="center">
+  <a href="https://store.steampowered.com/app/2189200/Space_Saviour_Special">
+    <img src="https://github.com/ostibilas/ostibilas/blob/main/steambanner.png" width="80%" alt="Space Saviour Special Banner"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://store.steampowered.com/app/2189200/Space_Saviour_Special">
+    <img src="https://img.shields.io/badge/Jogar_na_Steam-000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🛡️ Bald The Viking  
+Game em desenvolvimento — arte, código e design.
+👉 **https://github.com/ostibilas/Baldtheviking**
+
+---
+
+### 🍔 Site Para Lanches  
+Um site divertido e colorido para estudo de web design.  
+👉 **https://github.com/ostibilas/SiteParaLanches**
+
+---
+
+### 🧪 NodeJS Filter API  
+API de filtragem de produtos usando NodeJS.  
+👉 **https://github.com/ostibilas/NodeJS_filter_Study**
+
+---
+
+### 🚏 Aula Express  
+Backend simples com rotas usando Express.  
+👉 **https://github.com/ostibilas/aulaExpress**
+
+---
+
+## 📊 Estatísticas (modo coloridão)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ostibilas&show_icons=true&theme=tokyonight&hide_border=false&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostibilas&layout=compact&theme=tokyonight&hide_border=false&bg_color=00000000" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600ff,100:ff0066&height=150&section=footer" />
+</p>
+
