@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0066,100:6600ff&height=200&section=header&text=Gustavo P. Lima&fontSize=70&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0066,100:6600ff&height=200&section=header&text=GustavoP.Lima&fontSize=70&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <h2 align="center">🎨 Desenvolvedor • Artista 2D • Pixel Artist • Criador de Jogos</h2>
