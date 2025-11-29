@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0066,100:6600ff&height=200&section=header&text=Ostibilas&fontSize=70&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0066,100:6600ff&height=200&section=header&text=Gustavo P. Lima&fontSize=70&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <h2 align="center">🎨 Desenvolvedor • Artista 2D • Pixel Artist • Criador de Jogos</h2>
@@ -41,7 +41,7 @@ Sou **Gustavo Pereira Lima**, desenvolvedor e artista apaixonado por criar **jog
 
 ## 💥 Tecnologias & Ferramentas  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,unity,dotnet,nodejs,js,html,css,github,git,ps,blender,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=csharp,unity,dotnet,nodejs,js,html,css,github,git,ps,vscode&theme=dark" />
 </p>
 
 ---
@@ -62,6 +62,12 @@ Sou **Gustavo Pereira Lima**, desenvolvedor e artista apaixonado por criar **jog
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 🚏 Loja Espricio - CRUD em NodeJS
+Servidor Backend usando MSSQL,Tedious e Express  
+👉 **https://github.com/ostibilas/LojaEspricio**
+
+---
 
 ### 🛡️ Bald The Viking  
 Game em desenvolvimento — arte, código e design.
@@ -87,7 +93,9 @@ Backend simples com rotas usando Express.
 
 ---
 
-## 📊 Estatísticas (modo coloridão)
+
+
+## 📊 Estatísticas
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ostibilas&show_icons=true&theme=tokyonight&hide_border=false&bg_color=00000000" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostibilas&layout=compact&theme=tokyonight&hide_border=false&bg_color=00000000" />
