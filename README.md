@@ -32,7 +32,7 @@ Sou **Gustavo Pereira Lima**, desenvolvedor e artista apaixonado por criar **jog
   <a href="https://store.steampowered.com/app/2189200/Space_Saviour_Special">
     <img src="https://img.shields.io/badge/Steam%20Game-000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gustopavereiralima/">
+  <a href="https://www.linkedin.com/in/gustavopereiralima">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -96,10 +96,7 @@ Backend simples com rotas usando Express.
 
 
 ## 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ostibilas&show_icons=true&theme=tokyonight&hide_border=false&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostibilas&layout=compact&theme=tokyonight&hide_border=false&bg_color=00000000" />
-</p>
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
